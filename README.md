@@ -1,13 +1,13 @@
 <img src="extras/imagenes/html5-css3.jpg">
 
-# Curso: Desarrollo Web con HTML || código 69936
+# Curso: Desarrollo Web con HTML || código 68047
 
 <img src="https://img.shields.io/badge/HTML-F38454?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/CSS-1490fc?&style=for-the-badge&logo=css3&logoColor=white">
 
 > Curso: Desarrollo Web con HTML |  
-> Martes, Miércoles y Viernes de 13:30hs a 16:30hs (Arg) | 
-> 6 clases desde 01/08/2023 hasta 11/08/2023 |  
-> Código: 69936 |  
+> Lunes y Miércoles 18hs a 20hs (Arg) | 
+> 6 clases desde 11/09/2023 hasta 09/10/2023 |  
+> Código: 68047 |  
 > sensei: Marcos Pinardi |  
 
 
