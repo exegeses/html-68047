@@ -1,0 +1,15 @@
+body{
+    width: 1024px;
+    margin: auto; /* centrar el elemento  */
+}
+header{
+    height: 104px;
+    background-color: #CD4BFB;
+}
+main{
+    height: 630px;
+}
+footer{
+    height: 140px;
+    background-color: #38044A;
+}
