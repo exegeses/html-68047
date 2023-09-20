@@ -1,0 +1,20 @@
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    font-family: tahoma;
+    background-color: #270228;
+    color: hsl(298, 90%, 80%);
+    font-size: 20px;
+    width: 680px;
+    margin: auto;
+}
+
+#subir{
+    position: fixed;
+    bottom: 75px;
+    right: 75px;
+    background-color: hsl(298, 86%, 25%);
+    padding: 12px;;
+}
