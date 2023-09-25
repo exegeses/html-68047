@@ -1,0 +1,28 @@
+body{
+    font-family: sans-serif;
+    background-color: #bcedf9;
+    color: hsl(192, 84%, 24%);;
+}
+    main{
+        width: 640px;
+        margin: auto;
+    }
+        #contenedor img{
+            vertical-align: middle;
+        }
+
+
+    #contenedor2{
+        margin: 64px 0px;
+        text-align: center;
+    }
+
+    #contenedor3{
+        margin: 64px 0px;
+        display: flex;
+        justify-content: space-between;
+    }
+        #contenedor3 article{
+            width: 128px;
+            text-align: center;
+        }

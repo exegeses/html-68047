@@ -1,0 +1,16 @@
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    font-family: sans-serif;
+    font-weight: light;
+    font-size: 1.5em;
+    background-color: #253130;
+    color: hsl(175, 14%, 87%);
+}
+   
+    a{
+        text-decoration: none;
+        color: #fff;
+    }
