@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@300;400;600&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Barlow', sans-serif;
+    color: #3c3c3c;
+}
+
+header{
+    width: 1024px;
+    height: 104px;
+    margin: auto; /* centrar el contenedor */
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center; /* centrar en eje vertical */
+}
+
+    header a img{
+        height: 40px;
+    }
+    header nav a{
+        text-decoration: none; /* quitar subrayado */
+        font-weight: 600;
+        padding: 8px;
+        color: #3c3c3c;
+    }
+
+main{
+    width: 1024px;
+    margin: auto; /* centrar el contenedor */
+}
+
+/* hero banner */
+#hero-banner{
+    height: 450px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(../imgs/bg-nubes.jpg);
+    background-position: 0 bottom;
+}
+    #hero-banner h1{
+        font-size: 32px;
+        color: #fff;
+    }
