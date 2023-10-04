@@ -1,0 +1,22 @@
+body{
+    font-family: sans-serif;
+}
+main{
+    width: 768px;
+    margin: 64px auto;
+}
+    #caja{
+        background-color: #ccc;
+        height: 450px;
+
+        display: flex;
+        flex-wrap: wrap; /* respeta los anchos del CONTENIDO */
+
+    }
+    #caja article{
+        background-color: #a2fcf3;
+        width: 160px;
+        height: 160px;
+        text-align: center;
+        border: 1px solid #333;
+    }

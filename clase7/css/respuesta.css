@@ -1,0 +1,25 @@
+body{
+    font-family: sans-serif;
+    background-color: #1d0d29;
+    color: hsl(274, 52%, 80%);
+}
+    main{
+        width: 768px;
+        margin: 64px auto;
+    }
+    #about{
+        height: 450px;
+        border: 1px solid #fff;
+        background-image: url(../imgs/bg-2.jpg);
+        background-repeat: no-repeat;
+        /* background-position: ejeX ejeY; */
+        background-position: 0 bottom;
+
+        display: flex;
+        flex-wrap: wrap;
+        align-items: end;
+    }
+        #about h2{
+            margin-top: 300px;
+            width: 100%;
+        }
