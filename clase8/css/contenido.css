@@ -1,0 +1,19 @@
+body{
+    font-family: sans-serif;
+    font-size: 1.2em;
+}
+
+#editorial{
+    width: 768px;
+    margin: auto;
+    display: flex;
+}
+
+#ajuste{
+    width: 768px;
+    margin: auto;
+    display: flex;
+}
+    #ajuste img{
+        margin-right: 24px;
+    }
